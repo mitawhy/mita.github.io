@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.message {
+  background-color: #5dca88;
+  padding: 15px 40px;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
